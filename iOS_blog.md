@@ -13,3 +13,6 @@ iOS 博客
 (2)swift开发<br>
 [http://www.iswifting.com/](http://www.iswifting.com/)
 
+(3)鸟哥笔记<br>
+[http://www.niaogebiji.com/portal.php?mod=list&catid=39](http://www.niaogebiji.com/portal.php?mod=list&catid=39)
+
