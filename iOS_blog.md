@@ -9,6 +9,11 @@ iOS 博客
 (2)程序员头条<br>
 [http://www.90159.com/page/2/](http://www.90159.com/page/2/)
 
+(2)ios博客<br>
+[http://www.ios122.com/2015/08/shimmer/](http://www.ios122.com/2015/08/shimmer/)
+
+
+
 
 (2)swift开发<br>
 [http://www.iswifting.com/](http://www.iswifting.com/)
