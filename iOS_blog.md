@@ -1,5 +1,10 @@
 iOS 博客
 ========
+
+(0) 个人博客<br>
+[http://duxinfeng.com/](http://duxinfeng.com/)<br>
+
+
 (1) lp_马建成<br>
 [http://weibo.com/lp927#_rnd1444272692110](http://weibo.com/lp927#_rnd1444272692110)<br>
 
